@@ -26,9 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![Walkthrough](walkthrough.gif)
 
 ## Notes
 Main troubles were with Android's defaults already including a "Movie", had to make sure Android Studio auto-completed the custom Movie class.
